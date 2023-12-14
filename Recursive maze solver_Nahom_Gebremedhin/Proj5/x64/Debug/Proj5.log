@@ -1,0 +1,14 @@
+﻿  MazeSolver.cpp
+C:\Users\aldri\Desktop\Proj5\MazeSolver.cpp(224,21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aldri\Desktop\Proj5\MazeSolver.cpp(224,49): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aldri\Desktop\Proj5\MazeSolver.cpp(227,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aldri\Desktop\Proj5\MazeSolver.cpp(227,10): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aldri\Desktop\Proj5\MazeSolver.cpp(228,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aldri\Desktop\Proj5\MazeSolver.cpp(228,10): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aldri\Desktop\Proj5\MazeSolver.cpp(229,20): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aldri\Desktop\Proj5\MazeSolver.cpp(229,9): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aldri\Desktop\Proj5\MazeSolver.cpp(230,20): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aldri\Desktop\Proj5\MazeSolver.cpp(230,9): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Proj5.vcxproj -> C:\Users\aldri\Desktop\Proj5\x64\Debug\Proj5.exe
